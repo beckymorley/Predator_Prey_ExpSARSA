@@ -5,6 +5,7 @@
 ===========================================================================*/
 
 #include "GeneratedCppIncludes.h"
+#include "Private/VictoryBPLibraryPrivatePCH.h"
 #ifdef _MSC_VER
 #pragma warning (push)
 #pragma warning (disable : 4883)

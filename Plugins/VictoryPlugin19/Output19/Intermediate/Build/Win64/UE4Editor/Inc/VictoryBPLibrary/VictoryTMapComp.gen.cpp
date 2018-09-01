@@ -5,6 +5,7 @@
 ===========================================================================*/
 
 #include "GeneratedCppIncludes.h"
+#include "Private/VictoryBPLibraryPrivatePCH.h"
 #include "Public/VictoryTMapComp.h"
 #ifdef _MSC_VER
 #pragma warning (push)
