@@ -1,0 +1,5 @@
+﻿,TestLength,OptimalRewardOn,PreyPopulation,PredatorPopulation,MinPlantMultiplyRate,MaxPlantMultiplyRate,MinPlantSpawnRate,MaxPlantSpawnRate,HungerRate,DamageRate,ScentDistance,AgentSpeed,LearningRate,Tau
+01,120,n,5,5,30,60,60,90,3,3,3000,500,0.5,0.2
+02,,,,,,,,,,,,,,
+03,,,,,,,,,,,,,,
+04,,,,,,,,,,,,,,
