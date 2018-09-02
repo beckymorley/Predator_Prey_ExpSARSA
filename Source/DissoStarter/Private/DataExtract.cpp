@@ -4,6 +4,7 @@
 #include "Misc/FileHelper.h"
 #include "HAL/PlatformFileManager.h"
 
+
 bool UDataExtract::SaveArrayText(FString SaveDirectory, FString Filename, TArray<FString> SaveText, bool AllowOverwriting = false) {
 	// set complete file path. 
 	SaveDirectory += "\\";
@@ -24,6 +25,8 @@ bool UDataExtract::SaveArrayText(FString SaveDirectory, FString Filename, TArray
 
 	return FFileHelper::SaveStringToFile(FinalString, *SaveDirectory);
 }
+
+
 
 
 

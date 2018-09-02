@@ -5,8 +5,6 @@
 #include "CoreMinimal.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
 #include "DataExtract.generated.h"
-
-
 /**
  * 
  */
