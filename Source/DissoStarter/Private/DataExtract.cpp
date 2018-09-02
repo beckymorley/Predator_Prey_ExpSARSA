@@ -5,9 +5,9 @@
 #include "HAL/PlatformFileManager.h"
 
 
-bool UDataExtract::SaveArrayText(FString SaveDirectory, FString Filename, TArray<FString> SaveText, bool AllowOverwriting = false) {
+bool UDataExtract::SaveArrayText(FString SaveDirectory, FString MapSize, FString TestNumber, FString Filename, TArray<FString> SaveText, bool AllowOverwriting = false) {
 	// set complete file path. 
-	SaveDirectory += "\\";
+	SaveDirectory += "TestResults\\" + MapSize + TestNumber + "\\";
 	SaveDirectory += Filename;
 	if (!AllowOverwriting) {
 		if (FPlatformFileManager::Get().GetPlatformFile().FileExists(*SaveDirectory))

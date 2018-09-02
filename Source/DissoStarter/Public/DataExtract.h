@@ -14,7 +14,7 @@ class DISSOSTARTER_API UDataExtract : public UBlueprintFunctionLibrary
 	GENERATED_BODY()
 
 		UFUNCTION(BlueprintCallable, Category = "Custom", meta = (Keywords = "Save"))
-		static bool SaveArrayText(FString SaveDirectory, FString Filename, TArray<FString> SaveText, bool AllowOverwriting);
+		static bool SaveArrayText(FString SaveDirectory, FString MapSize, FString TestNumber, FString Filename, TArray<FString> SaveText, bool AllowOverwriting);
 };
 
 
