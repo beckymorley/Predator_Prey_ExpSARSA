@@ -7,8 +7,8 @@
 
 bool UDataExtract::SaveArrayText(FString SaveDirectory, FString MapSize, FString TestNumber, FString Filename, TArray<FString> SaveText, bool AllowOverwriting = false) {
 	// set complete file path. 
-	SaveDirectory += "TestResults\\" + MapSize + TestNumber + "\\";
-	SaveDirectory += Filename;
+	SaveDirectory += "TestResults\\" + MapSize + "\\";
+	SaveDirectory += TestNumber + ".csv";
 	if (!AllowOverwriting) {
 		if (FPlatformFileManager::Get().GetPlatformFile().FileExists(*SaveDirectory))
 		{

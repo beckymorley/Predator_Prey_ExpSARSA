@@ -23,11 +23,11 @@
 /wd4838
 /w44668
 /I D:\UE_4.19\Engine\Source
-/I "C:\Users\Ridan\Desktop\Predator_Prey_ExpSARSA - HungerStates\Plugins\VictoryPlugin19\Output19\Source\VictoryBPLibrary\Private"
-/I "C:\Users\Ridan\Desktop\Predator_Prey_ExpSARSA - HungerStates\Plugins\VictoryPlugin19\Output19\Source"
-/I "C:\Users\Ridan\Desktop\Predator_Prey_ExpSARSA - HungerStates\Plugins\VictoryPlugin19\Output19\Source\VictoryBPLibrary\Public"
-/I "C:\Users\Ridan\Desktop\Predator_Prey_ExpSARSA - HungerStates\Plugins\VictoryPlugin19\Output19\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary"
-/I "C:\Users\Ridan\Desktop\Predator_Prey_ExpSARSA - HungerStates\Plugins\VictoryPlugin19\Output19\Source\VictoryBPLibrary"
+/I C:\Users\Ridan\Desktop\Predator_Prey_ExpSARSA\Plugins\VictoryPlugin19\Output19\Source\VictoryBPLibrary\Private
+/I C:\Users\Ridan\Desktop\Predator_Prey_ExpSARSA\Plugins\VictoryPlugin19\Output19\Source
+/I C:\Users\Ridan\Desktop\Predator_Prey_ExpSARSA\Plugins\VictoryPlugin19\Output19\Source\VictoryBPLibrary\Public
+/I C:\Users\Ridan\Desktop\Predator_Prey_ExpSARSA\Plugins\VictoryPlugin19\Output19\Intermediate\Build\Win64\UE4Editor\Inc\VictoryBPLibrary
+/I C:\Users\Ridan\Desktop\Predator_Prey_ExpSARSA\Plugins\VictoryPlugin19\Output19\Source\VictoryBPLibrary
 /I D:\UE_4.19\Engine\Source\Runtime\Core\Public
 /I D:\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization
 /I D:\UE_4.19\Engine\Source\Runtime\Core\Public\Async
@@ -392,9 +392,9 @@
 /FI"D:\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"D:\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"D:\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Ridan\Desktop\Predator_Prey_ExpSARSA - HungerStates\Plugins\VictoryPlugin19\Output19\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\Module.VictoryBPLibrary.gen.2_of_2.cpp"
-/FI"C:\Users\Ridan\Desktop\Predator_Prey_ExpSARSA - HungerStates\Plugins\VictoryPlugin19\Output19\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\Definitions.VictoryBPLibrary.h"
-/Fo"C:\Users\Ridan\Desktop\Predator_Prey_ExpSARSA - HungerStates\Plugins\VictoryPlugin19\Output19\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\Module.VictoryBPLibrary.gen.2_of_2.cpp.obj"
+"C:\Users\Ridan\Desktop\Predator_Prey_ExpSARSA\Plugins\VictoryPlugin19\Output19\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\Module.VictoryBPLibrary.gen.2_of_2.cpp"
+/FI"C:\Users\Ridan\Desktop\Predator_Prey_ExpSARSA\Plugins\VictoryPlugin19\Output19\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\Definitions.VictoryBPLibrary.h"
+/Fo"C:\Users\Ridan\Desktop\Predator_Prey_ExpSARSA\Plugins\VictoryPlugin19\Output19\Intermediate\Build\Win64\UE4Editor\Development\VictoryBPLibrary\Module.VictoryBPLibrary.gen.2_of_2.cpp.obj"
 /TP
 /GR-
 /W4
