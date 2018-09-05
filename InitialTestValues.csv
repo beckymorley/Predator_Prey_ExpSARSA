@@ -1,5 +1,5 @@
-﻿,TestLength,OptimalRewardOn,PreyPopulation,PredatorPopulation,MinPlantMultiplyRate,MaxPlantMultiplyRate,MinPlantSpawnRate,MaxPlantSpawnRate,HungerRate,DamageRate,ScentDistance,AgentSpeed,LearningRate,Tau,MapSize
-000,120,n,5,5,30,60,60,90,3,1,3000,500,0.1,0.1,Small
-001,120,n,5,5,30,60,60,90,3,1,3000,500,0.4,0.4,
-002,120,n,5,5,30,60,60,90,3,1,3000,500,0.7,0.7,
-003,120,n,5,5,30,60,60,90,3,1,3000,500,1,1,
+﻿,TestLength,OptimalRewardOn,PreyPopulation,PredatorPopulation,MinPlantMultiplyRate,MaxPlantMultiplyRate,MinPlantSpawnRate,MaxPlantSpawnRate,HungerRate,DamageRate,ScentDistance,AgentSpeed,LearningRate,Tau
+000,301,n,1,1,30,60,60,90,5,10,3000,500,0.1,0.1
+001,301,n,5,5,30,60,60,90,5,10,3000,500,0.4,0.4
+002,301,n,5,5,30,60,60,90,5,10,3000,500,0.7,0.7
+003,301,n,5,5,30,60,60,90,5,10,3000,500,1,1
