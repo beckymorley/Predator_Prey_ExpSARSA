@@ -1,4 +1,4 @@
 ﻿,LOW,MED,HIGH
-LOW,0,0,n
-MED,10,0,n
-HIGH,20,10,n
+LOW,0.25,0,n
+MED,0.5,0.25,n
+HIGH,1,0.5,n
