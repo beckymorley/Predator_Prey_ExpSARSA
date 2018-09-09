@@ -1,0 +1,9 @@
+GameTime,PreyPopulation,PredatorPopulation,PreyGrowth,PredatorGrowth,PreyDeath,PredatorDeath
+32.464069,3,5,0,0,0,0
+54.275261,2,5,0,0,0,0
+55.000145,2,5,0,0,0,1
+60.321709,1,4,0,0,0,0
+86.001823,0,4,0,0,0,1
+106.003632,0,3,0,0,0,1
+106.003632,0,3,0,0,0,1
+112.00412,0,1,0,0,0,1
